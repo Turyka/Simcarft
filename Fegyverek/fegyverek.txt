@@ -3,7 +3,8 @@ main_hand=runeaxe_of_the_breaker,id=12358 (agi / axe)
 main_hand=shadowrend_talonblade,id=12387 (agi / sword)
 main_hand=backfuse_company_utility_knife,id=12365 (agi / dagger)
 main_hand=demonblade_eviscerator,id=12368 (agi / fist)
-main_hand=rune_infused_spear,id=12437 (agi / polarm)
+main_hand=rune_infused_spear,id=124377 (agi / polarm)
+
 
 
 
